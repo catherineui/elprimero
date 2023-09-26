@@ -87,7 +87,7 @@
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
-    <ui:InputDialog Options="{x:Null}" OptionsString="{x:Null}" DisplayName="Input Dialog" sap:VirtualizedContainerService.HintSize="338,243" sap2010:WorkflowViewState.IdRef="InputDialog_1" IsPassword="False" Label="Registro" Title="Entrar Registro">
+    <ui:InputDialog Options="{x:Null}" OptionsString="{x:Null}" DisplayName="Input Dialog" sap:VirtualizedContainerService.HintSize="338,243" sap2010:WorkflowViewState.IdRef="InputDialog_1" IsPassword="False" Label="Registro kkk" Title="Entrar Registro">
       <ui:InputDialog.Result>
         <OutArgument x:TypeArguments="x:String">[text]</OutArgument>
       </ui:InputDialog.Result>
